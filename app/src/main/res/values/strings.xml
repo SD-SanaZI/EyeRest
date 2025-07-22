@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Eye Rest</string>
+    <string name="channel_name">EyeRest notifications channel</string>
+    <string name="channel_description">EyeRest notifications channel</string>
+    <string name="exercise_list">Exercise list</string>
+    <string name="stereograms">Stereograms</string>
+    <string name="notifications">Notifications</string>
+    <string name="notification_message">Eye care time! Tap here for today’s vision exercise.</string>
+    <string name="quick_start">Quick start</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="press">Press</string>
+    <string name="pause">Pause</string>
+    <string name="save">Save</string>
+    <string name="article_1_short_text">7 Ways To Save Your Vision</string>
+    <string name="article_2_short_text">How to Care Your Glasses</string>
+    <string name="article_3_short_text">The Best FoodsFor Eye Health</string>
+    <string name="more">More</string>
+    <string name="exercise">Exercise %d</string>
+    <string name="exercise_1">Close your eyes tightly for 3 seconds.\nPause for 5 seconds\nRepeat 5 times</string>
+    <string name="exercise_1_short">Close your eyes tightly</string>
+    <string name="exercise_2">Blink rapidly</string>
+    <string name="exercise_2_short">@string/exercise_2</string>
+    <string name="exercise_3">Press lightly on the upper eyelids of closed eyes with three fingers of each hand for 2 seconds\nPause for 2 seconds\nRepeat 5 times</string>
+    <string name="exercise_3_short">Press lightly on the upper eyelids of closed eyes</string>
+    <string name="exercise_4">Move your eyes in the directions indicated by the dot</string>
+    <string name="exercise_4_short">Move your eyes</string>
+    <string name="exercise_5">@string/exercise_4</string>
+    <string name="exercise_5_short">@string/exercise_4_short</string>
+    <string name="exercise_6">@string/exercise_4</string>
+    <string name="exercise_6_short">@string/exercise_4_short</string>
+    <string name="exercise_7">Close your eyes. Gently massage your temples with two fingers for 30 seconds</string>
+    <string name="exercise_7_short">Close your eyes. Gently massage your temples</string>
+    <string name="exercise_8">Look at the stereogram</string>
+    <string name="exercise_8_short">@string/exercise_8</string>
+    <string name="full_screen">Full screen</string>
+    <string name="next_picture">Next picture</string>
+    <string name="ok_str">OK</string>
+    <string name="wtf_text">Hold the stereogram image in your hands at about eye level. Look slightly above the stereogram and find a different object to focus your eyes on, like a photo on the wall, or a floor lamp . Slowly raise the stereogram until it blocks your view of the other object. You should now be able to see the hidden image.</string>
+    <string name="notification_information">Mark the days of the week\nand times of notification :</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="settings">Settings</string>
+    <string name="timeout">Timeout</string>
+    <string name="on_str">On</string>
+    <string name="off_str">Off</string>
+    <string name="duration_of_vibration">Duration of vibration</string>
+    <string name="in_exercise_vibration">In-Exercise Vibration</string>
+    <string name="completion_vibration">Completion Vibration</string>
+    <string name="try_str">Try</string>
+    <string name="dot_speed">Dot speed</string>
+    <string name="time">%1$02d:%2$02d</string>
+
+    <string name="article_1_text_1">
+It\'s Save Your Vision Month, which the American Optometric Association (AOA) decrees as the perfect time to bring awareness to the importance of good vision, healthy eyes and steps you can take to achieve both.\nDid you know that more than 40 million Americans are at risk for reduced vision and potentially even blindness because of age-related diseases? Did you know that just because you have good visual acuity and can see well, it doesn\'t necessarily mean your eyes are healthy?\nThe best way to ensure that you\'re seeing your best with healthy, well-functioning eyes is to make an annual appointment with your optometrist for a comprehensive vision exam. Your optometrist will perform a thorough examination and evaluate your eyes with a 360-degree approach to make sure you\'re healthy.\nBut what can you do during the other 364 days of the year to make sure your eyes stay healthy?
+</string>
+
+    <string name="article_1_text_2">
+ Here are 7 ways to save your vision:\nBuy and wear high-quality sunglasses. Not only do they look great, but quality sunglasses that protect against at least 99% of the sun\'s damaging UV-A and UV-B rays protect your eyes. Cumulative, ongoing exposure to the sun\'s UV rays\'which are present on the Earth\'s surface 365 days a year\—can cause vision-destroying conditions including macular degeneration, cataracts, issues with the conjunctiva and negative impact on both the cornea and your eye\'s tear film. The solution? Prevent UV eye damage by wearing your sunglasses every day, every time you go outside.\nExercise regularly. It\'s important for so many different reasons, and your eyes are one of them. Your eyes need healthy blood circulation and oxygen to fuel good vision. Exercise\—anything that gets your heart rate up and the blood pumping from a brisk walk to a run or a Zumba class\—benefits your eyes because it promotes good circulation.\nQuit using tobacco products. Because they can cause the opposite effect from exercise\—reducing blood flow and impairing blood oxygenation\—tobacco products have negative consequences on many of your body\'s organs, including the eye. Stop smoking! Whether you use nicotine patches, gum or lozenges or try one of the four medication types that can help, now\'s the time to quit for a healthier \"future you.\"\nWear safety goggles and protective eyewear\'when it\'s called for. Whether you\'re at home, outside or at work, there are a multitude of different situations where you should wear protective eyewear to protect your eyes from dangerous projectiles and fumes. With more than 1,000 daily eye injuries in workplaces nationwide, 40,000 sports-related injuries to the eye and 125,000 eye injuries occurring in homes each year, about 90% of these potentially devastating eye injuries could be prevented by wearing appropriate safety goggles and protective eyewear.\nContact lens care counts. Are you abusing your eyes by sleeping in contact lenses not meant for that purpose, or wearing your lenses for prolonged periods? These behaviors can result in severe irritation such as corneal ulcers that may cause permanent vision damage. There\'s a reason your optometrist recommends a certain length of wear and teaches proper lens hygiene. Ask your optometrist about daily disposable contact lenses to help prevent many of these issues.\nLove those leafy greens! Yes, Leafy green veggies are a key to good eye health. Vitamins and micronutrients are plentiful in fruits and vegetables including broccoli, kale and spinach. Eat the rainbow of colors and you\'ll eat your way to proper nutrition\—which benefits your eyes.\nDitch the digital device. Eye strain is an issue in our modern lives, and it\'s impacting the human race like never before due to the enormous amount of time we spend staring into tiny digital devices. Laptops, computer screens, tablets, e-readers, cell phones\—they all cause eye strain when used too much. Practice the 20/20/20 rule\—about every 20 minutes, focus your eyes on something that\'s 20 feet away for a 20-second break from your digital device. That simple practice can limit eye strain and improve your ability to see your best!\nAnd of course, another important way to Save Your Vision is to make and keep your annual comprehensive eye exam appointment with your optometrist. We can\'t wait to see you!
+</string>
+
+    <string name="article_2_text_1">
+You invest a lot of time in finding the right pair of glasses. You look for the right frame shape, in a pattern or color that perfectly expresses you. You patiently wait for the lenses to be fitted and for that call telling you that your new eyeglasses are ready for pick up.\n\nDon\'t you want to do everything you can to make these glasses last as long as possible?\n\nTips To Maintain Glasses\nHere are some great tips on how to take proper care of your eyeglasses that will help make them last:\n\nRinse\nAlways rinse your glasses off with water before wiping or cleaning them. Even tiny particles of dust or dirt can settle on your lens, and if you wipe those around on a dry lens, it can be abrasive.\n\nSpray Carefully\nIf you\'re going to use a chemical, use sprays or cleansers that are specifically made to clean eyeglass lenses. Never use household cleaners like Windex, because these chemicals contain ammonia, which will actually tear off the any coating that is on the lens.
+</string>
+
+    <string name="article_2_text_2">
+Air Dry\nIf you can, allow your glasses to air dry. This is another great way to keep any materials from getting on to your lens. If you can\'t set them down to air dry, wipe them down with a soft, clean, lint-free cloth.\n\nUse the Right Cloth\nNEVER use paper towels, tissue, or napkins to dry your lenses. All of these materials, regardless of how soft they are on your skin, have a textured surface and can easily scratch your lenses.\n\nAlso, refrain from using the tail of your shirt. If the clothing is not 100% cotton, the fibers in the fabric will scratch the lens of your eyeglasses over time. The clothing can also have dirt on it, which means the residue ends up transferred to your lenses.\n\nWash Often\nWashing your glasses at least once a day will keep your lenses in their optimal state. The cleaner your glasses, the less your eyes have to strain to see through smudges, dirt and dust.\n\nGrip Firmly\nHold your frames by gripping the piece that crosses the bridge of the nose. This will keep you from accidently bending the frame while you clean. Bent glasses can negatively affect the way you see out of your glasses. Plus, if your frames are bent out of shape, they\'re more likely to feel uncomfortable.\n\nStore Properly\nStore your glasses when you\'re not wearing them. This isn\'t just a great way to keep dust and dirt away from your eyeglasses, but it also protects your specs from getting scratched, bent or broken.\n\nIf you don\'t want a big, bulky case, sleeker ones are available. Microfiber pouches are also great to keep at your office desk or on your night stand for glasses you don\'t necessarily wear all the time, like reading glasses.\n\nPlace Carefully\nDon\'t lay your glasses lens down. This is just asking for scratched lenses.\nFollow these steps, and we are sure you\'ll never want to leave your super clean specs behind.
+</string>
+
+
+    <string name="article_3_text_1">
+To mark National Eye Health Week in the UK, we\'ve decided to take a look at how you can look after your eyes through nutrition. Join us as we explore the best foods for eye health.\n\nWhy is good nutrition important for eye health?\n\nThe importance of a healthy diet cannot be understated for a variety of reasons. The most important of all for this article concerns eye health. Various reports strongly show positive links to certain vitamins and healthy eyes. For example, Vitamins C and E along with zinc can help reduce the risk of specific eye problems.\n\nCan nutrition protect against eye conditions?\nIn a word: yes. Eating certain types of food can help you reduce the risk of eye diseases. For example, leafy green vegetables contain high doses of lutein and zeaxanthin. These have been proven to reduce the risk of cataracts and other chronic eye conditions.\n\nWhat are the best vitamins for eye health and vision?\nWhile all vitamins are good for your general health, vitamins C and E are specifically beneficial for your eyes. Vitamin C lowers the risk of developing cataracts (and therefore, the need for cataract surgery) and age-related macular degeneration (AMD). Vitamin E is known for protecting the cells in the eyes from unstable molecules that can damage tissue.
+</string>
+
+    <string name="article_3_text_2">
+Top foods good for eye health\nSo, we know that certain vitamins and food types improve your eyesight. But how can you get all this nutritional goodness into your diet? What exactly do you need to be eating to enjoy the benefits? In the next section, we take a look.\n\nFood group/type\nAs we\'re about to see, different food groups play different roles when it comes to eye health. The food groups we\'re going to look at are all proven examples of this. For example, Omega-3 is a known nutrient integral to eye development in children while vitamin A is crucial to low-light vision.\n\nBest foods to improve eyesight\nThe following foods contain vitamins scientifically proven to improve your eyesight.\n\nVitamin A\nVitamin A plays a pivotal role in eye health. It\'s an essential nutrient that aids the production of Rhodopsin, which is a protein that allows people to see in low light.\n\nFoods high in vitamin A include:\ncarrots\npumpkins\nmilk\nliver\neggs.\n\nVitamin C\nThe antioxidant properties of vitamin C are believed to be responsible for its ability to slow the progression of cataract development. This vitamin has also been proven to slow the progression of macular degeneration.\n\nThe following foods all contain vitamin C:\ncauliflower\ncabbage\nlemon\noranges.\n\nVitamin E\nA powerful antioxidant that slows the progression of a macular degeneration.
+</string>
+
+    <string name="article_3_text_3">
+Foods containing vitamin E include:\nalmonds\nsunflower seeds\npeanuts.\n\nLutein/Zeaxanthin\nThese are among the best vitamins to aid eyesight. Foods containing Lutein or Zeaxanthin have been proven to slow the progression of macular degeneration and cataracts. These can be crucial as they act as a natural sunblock by absorbing excess light energy. They\'re also thought to protect your eyes from harmful blue lights found in digital displays (e.g. computer screens).\n\nFoods containing lutein and zeaxanthin include:\nbroccoli\ncorn\nkale\negg yolk.\n\nOmega-3\nNaturally occuring fatty acids like Omega-3 are extremely beneficial for eye health. These are mainly found in fish such as tuna, salmon, and cod liver oil.\n\nBest foods for retina health\nThe best foods to eat to help ensure good retina health include the following:\nleafy green vegetables\neggs\ncitrus fruits\nnuts (specifically almonds and peanuts)\nsweet potatoes\nwhole grains\navocado\nberries\ntomatoes\ncarrots\nfish (the more oily, the better!).\n\nHow often should I eat these foods?\nYou should try to eat these foods as often as you can but we know that it\'s almost impossible (let alone a bit dull!) to only eat a perfect, healthy diet. Which is why it\'s important to focus on striking a balance. Including cheat days and allowing yourself treats every now and again will help keep you motivated to include all the good stuff in your diet.
+</string>
+
+    <string name="article_3_text_4">
+Taking eye health supplements\nRegularly taking eye health supplements is a scientifically proven way of boosting eye health. For example, taking Omega-3 supplements could benefit people with dry eye disease. In fact, a recent study conducted on individuals with dry eyes revealed that taking Omega-3 supplements every day for three months resulted in a significant reduction in dry eye symptoms.\n\nLooking after your eye health \— tips\nOther tips on keeping your eyes shipshape include:\nworking in proper lighting to avoid excessive eye strain\nwearing sunglasses on bright, sunny days\nblinking frequently\nattending regular eye health checks\nadjusting your vision to near and far objects if working for long periods in front of a screen\nquitting smoking (if already in the habit).\n\nFollowing these tips, along with maintaining a healthy, balanced diet will help ensure your eyesight remains in top condition.
+</string>
+</resources>
